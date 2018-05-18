@@ -1,6 +1,6 @@
 # Yart — Yet another resume tool.
 
-See the [author's resume](https://joyneop.xyz/resume/) as online demo. Although it is maintained as parallel of Yart.
+See the [author's resume](https://ls1231.github.io/resume/) as online demo. Although it is maintained as parallel of Yart.
 
 ## Yart-flavored-Markdown
 
